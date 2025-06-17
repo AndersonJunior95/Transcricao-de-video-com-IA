@@ -24,7 +24,7 @@ Este projeto é uma aplicação experimental que permite:
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+https://github.com/AndersonJunior95/Transcricao-de-video-com-IA.git
 cd seu-repositorio
 ```
 
